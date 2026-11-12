@@ -24,7 +24,7 @@ Feature-family ablation and permutation negative-control analysis under molecule
 
 ## Dataset
 
-Both notebooks use the corrected RDKit_10 dataset released by Li et al. following their Correction.
+Both notebooks use the corrected RDKit_10 dataset released by Li et al (https://github.com/Haifeng-Li-ML/SAM-ML_NEW). following their Correction.
 
 The dataset contains 99 device records representing 57 unique SAM molecules. The dataset file is not included in this repository.
 
