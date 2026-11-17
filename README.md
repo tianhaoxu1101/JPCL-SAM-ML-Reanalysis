@@ -164,7 +164,7 @@ The numerical data underlying Figures 1 and 2 are provided as Data S1 in the Sup
 
 The analysis notebooks in this repository provide the computational procedures used for the corresponding validation, feature-ablation, permutation negative-control, and learning-curve analyses.
 
-## 7. License and Usage
+## 7. Usage and Citation
 
 The notebooks are provided to facilitate reproducibility and independent examination of the analyses reported in the associated Comment.
 
